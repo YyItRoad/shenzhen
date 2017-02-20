@@ -1,3 +1,6 @@
+  `c.option '-s', '--scheme SCHEME', 'Scheme used to build app'`
+  打包不同target
+  
 ![Shenzhen](https://raw.github.com/nomad/nomad.github.io/assets/shenzhen-banner.png)
 
 Create `.ipa` files and distribute them from the command line, using any of the following methods:
